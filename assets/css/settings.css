@@ -1,0 +1,49 @@
+.ua-web-notification-settings .dashicons-flag,
+.ua-web-notification-settings .ua-wn-setting-none {
+	color: #AC0000;
+}
+
+.ua-web-notification-settings .dashicons-yes {
+	color: #22A713;
+}
+
+.ua-wn-setting-default-img {
+	max-width: 150px;
+	max-height: 150px;
+}
+
+.ua-web-notification-settings .section-description .dashicons,
+.ua-web-notification-settings .safari-support .dashicons {
+	width: auto;
+	height: auto;
+	font-size: 14px;
+}
+
+.ua-wn-prompt-event .description,
+.ua-wn-prompt-event #ua_wn_custom_prompt_help {
+	margin: 0 0 10px 0;
+}
+
+#ua_wn_custom_prompt_help {
+	padding-left: 25px;
+}
+
+#ua_wn_custom_prompt_help ul {
+	list-style-type: square;
+}
+
+.ua-wn-sdk-upload-wrap .ua-wn-sdk-upload-new {
+	display: none;
+}
+
+.ua-wn-sdk-upload-wrap.ua-wn-uploaded .ua-wn-sdk-upload-new {
+	display: block;
+}
+
+.ua-wn-sdk-upload-wrap.ua-wn-uploaded .ua-wn-sdk-upload {
+	display: none;
+}
+
+.ua-wn-sdk-upload-new .ua-wn-sdk-file-name {
+	margin-right: 100px;
+}
